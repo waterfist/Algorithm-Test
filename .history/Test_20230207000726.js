@@ -5,5 +5,4 @@ function mun(a, b) {
   let a = 1;
 
   return a - b;
-  console.log(hello world);
 }
